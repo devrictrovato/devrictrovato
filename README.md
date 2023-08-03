@@ -44,6 +44,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-de-oliveira-trovato/)](https://www.linkedin.com/in/ricardo-de-oliveira-trovato/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devrictrovato@gmail.com)](mailto:devrictrovato@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-RicardoO.Trovato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-de-oliveira-trovato/)](https://www.linkedin.com/in/ricardo-de-oliveira-trovato/)
+[![Gmail Badge](https://img.shields.io/badge/-devrictrovato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devrictrovato@gmail.com)](mailto:devrictrovato@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/devrictrovato?label=follow&style=social)](https://www.linkedin.com/in/ricardo-de-oliveira-trovato/)

@@ -1,7 +1,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Ciências da Computação** na <a href="https://www.impacta.edu.br">Faculdade Impacta</a>.
+- 🎓 Bacharel: **Ciências da Computação** pela <a href="https://www.impacta.edu.br">Faculdade Impacta</a>.
 - 💼 Procurando novas oportunidades!
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
 
